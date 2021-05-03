@@ -7,7 +7,7 @@
     "module": "CommonJS",
     "noEmit": true,
     "paths": {
-      "react-native-module-template": ["../src"]
+      "akimoto-prime-factor-decomposition": ["../src"]
     },
     "skipLibCheck": true,
     "strict": true,
